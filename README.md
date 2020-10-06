@@ -4,5 +4,7 @@ We are analyzing airline industries during the Coronavirus pandemic using their 
 
 ### Members
 Joe Redmond
+
 Alex Libby
+
 Fabio Hodo
